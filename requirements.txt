@@ -14,7 +14,7 @@ itsdangerous==1.1.0
 logzero==1.5.0
 lookatme==2.2.0
 lxml==4.6.1
-matrix-synapse==1.19.0
+matrix-synapse==1.62.0
 moin==1.9.10
 nanopb==0.3.0
 oic==1.2.0
