@@ -21,7 +21,7 @@ oic==1.2.0
 requests-kerberos==0.5
 sopel_plugins.channelmgnt==1.0.0
 tensorflow-cpu==1.15.3
-tensorflow-gpu==1.15.3
+tensorflow-gpu==2.7.2
 tensorflow==1.15.3
 twisted==14.0.0
 waitress==1.30.1
