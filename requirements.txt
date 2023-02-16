@@ -3,7 +3,7 @@ django==1.11.0
 Flask-Cors==3.0.8
 Flask==0.12.3
 Pillow==7.0.0
-Werkzeug==1.0.0
+Werkzeug==2.2.3
 apache-airflow==1.10.12
 # bleach is commented below to allow for testing/demonstration
 # of the dependabot schedule.
