@@ -20,7 +20,7 @@ nanopb==0.3.0
 oic==1.2.0
 requests-kerberos==0.5
 sopel_plugins.channelmgnt==1.0.0
-tensorflow-cpu==1.15.3
+tensorflow-cpu==2.11.1
 tensorflow-gpu==1.15.3
 tensorflow==1.15.3
 twisted==14.0.0
